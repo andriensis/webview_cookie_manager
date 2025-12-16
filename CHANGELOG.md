@@ -1,3 +1,8 @@
+## 2.1.0
+
+* Refactor to use android v2 embedding
+* Bump up JVM compile version to 17 
+
 ## 2.0.7
 
 * Add missing namespace parameter 
